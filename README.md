@@ -1,4 +1,4 @@
-# web3-hardhat-fundme# 
+# web3-hardhat-fundme
 
 This is a web3 blockchain program to provide funds to the contract. It uses hardhat and solodity with ethers.js to complete the task.
 In order to run this program you will need:
